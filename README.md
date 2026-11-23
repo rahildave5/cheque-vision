@@ -1,5 +1,7 @@
 # Cheque OCR Pipeline — Computer Vision + Structured Data Extraction
 
+![Repository Views](https://hits.sh/github.com/rahildave5/cheque-ocr-pipeline.svg?label=Views&color=blue)
+
 **An open-source-oriented, publicly available computer vision project for turning cheque images into structured, reviewable data.**
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
