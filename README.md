@@ -7,7 +7,7 @@
 [![OpenCV](https://img.shields.io/badge/Computer%20Vision-OpenCV-5C3EE8?logo=opencv&logoColor=white)](https://opencv.org/)
 [![PaddleOCR](https://img.shields.io/badge/OCR-PaddleOCR-165DFF)](https://github.com/PaddlePaddle/PaddleOCR)
 
-**Repository:** https://github.com/rahildave5/ocr-v2
+**Repository:** https://github.com/rahildave5/cheque-vision
 
 ## Overview
 
